@@ -1,0 +1,13 @@
+{
+  "type": "custom-component",
+  "name": "test-sub1",
+  "children": [],
+  "variables": [],
+  "bindings": [],
+  "modules": [],
+  "styles": [],
+  "externalScripts": [],
+  "externalStylesheets": [],
+  "localScripts": [],
+  "localStylesheets": []
+}
